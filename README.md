@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Deepika Timlasina</h1>
 <h3 align="center">A passionate frontend developer</h3>
+<img align="left" alt="coding" src="https://www.lambdatest.com/resources/images/news24.gif"/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dixpikaa&label=Profile%20views&color=0e75b6&style=flat" alt="dixpikaa" /> </p>
 
